@@ -1,0 +1,3 @@
+**Aprendizados da semana**
+
+Nessa semana de onboarding aprendi os comandos do terminal, do git, e hoje sobre o VS Code. Dentro desses comandos aprendi a criar pastas, arquivos, branchs e repositórios, e editar texto. Nesta semana também estou aprendendo a ter muita **paciência** para fazer os exercícios, a falar por vídeo com pessoas que ainda não conheço muito bem, como os professores e os alunos, além de aprender a pedir ajuda e a fazer perguntas. Essas últimas coisas nunca foram muito fáceis para mim.
