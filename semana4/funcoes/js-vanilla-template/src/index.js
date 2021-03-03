@@ -76,9 +76,9 @@
 
 //EXERCICIO 4
 
-function minhasInformações() {
+// function minhasInformações() {
 
-    console.log = prompt("Eu sou Beatriz, tenho 25 anos, moro em Campinas e sou estudante.")
+//     console.log = prompt("Eu sou Beatriz, tenho 25 anos, moro em Campinas e sou estudante.")
 
-}
-minhasInformações()
+// }
+// minhasInformações()
