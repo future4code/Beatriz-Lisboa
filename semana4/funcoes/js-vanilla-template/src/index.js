@@ -77,7 +77,7 @@
 //EXERCICIO 4
 
 function minhasInformações() {
-
+ 
     console.log("Eu sou Beatriz, tenho 25 anos, moro em Campinas e sou estudante.")
 
 }
